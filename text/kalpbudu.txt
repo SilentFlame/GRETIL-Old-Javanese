@@ -1,0 +1,63 @@
+
+    
+    
+ Kalpabuddha 
+    
+
+
+
+Kalpabuddha
+Based on the ed. by F.D.K. Bosch: "Buddhist Data from Balinese Texts",
+Mededeelingen der Koninklijke Akademie van Wetenschappen, Afdeeling Letterkunde,
+Vol. 68, Ser. B, 1929, pp. 43-78
+(reprinted in: Selected Studies in Indonesian Archaeology, pp. 108-133; 132-133)
+
+
+
+Typed by Arlo Griffiths,
+with slight normalization of the spelling of Sanskrit words/names,
+and substitution of ṅ for ng and v for w.
+
+
+
+
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE. 
+
+Text converted to Unicode (UTF-8).
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration 
+set to UTF-8.)
+
+
+
+description:  multibyte sequence:
+long a          ā   
+long A            Ā   
+long i            ī   
+long I            Ī   
+long u            ū   
+long U            Ū   
+vocalic r            ṛ  
+vocalic R            Ṛ  
+long vocalic r       ṝ  
+vocalic l            ḷ  
+long vocalic l       ḹ  
+velar n            ṅ  
+velar N            Ṅ  
+palatal n            ñ   
+palatal N            Ñ   
+retroflex t       ṭ  
+retroflex T       Ṭ  
+retroflex d       ḍ  
+retroflex D       Ḍ  
+retroflex n       ṇ  
+retroflex N       Ṇ  
+palatal s            ś   
+palatal S            Ś   
+retroflex s       ṣ  
+retroflex S       Ṣ  
+anusvara            ṃ  
+visarga            ḥ  
+
+e breve            ĕ  
+o dieresis            ö  
