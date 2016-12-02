@@ -1,4 +1,4 @@
-# GRETIL-Old-Javanese
+# javanese_text_gretil #
 extracted the old-javanese text hosted by [GRETIL](http://gretil.sub.uni-goettingen.de/#OldJavanese).
 
 ### Contents ###
