@@ -1,19 +1,19 @@
 from bs4 import BeautifulSoup
 
-read_file_path = ""
-write_file_path = ""
+read_file_path = "/home/speedy/FLAME/Soc-related/cltk/GRETIL-Old-Javanese/html/"
+write_file_path = "/home/speedy/FLAME/Soc-related/cltk/GRETIL-Old-Javanese/text/"
 
 # file to be scraped
-html_file_name = ".htm"
+html_file_name = "vrhasp_u.htm"
 
 # output file name
-text_file_name = ".txt"
+text_file_name = "vrhasp_u.txt"
 
 #will be already there
-f = open(read_file_path+html_file_name)
+f = open(read_file_path+html_file_name, 'r')
 
 data = f.read().decode('utf-8')
-data = BeautifulSoup(data, "html5lib")
+data = BeautifulSoup(data)
 
 # kill all script and style elements
 for script in data(["script", "style"]):
